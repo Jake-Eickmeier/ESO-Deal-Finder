@@ -1,2 +1,6 @@
 # ESO-Deal-Finder
 A scraping script that eagerly seeks the best deals in Elder Scrolls Online and notifies the user of them.
+
+## This script was created a few years ago to help me find the greatest deals across all markets in the video game "Elder Scrolls Online". It had previously been kept private as it was used to give me a competitive edge in the marketplace, but is now available for public use. The parameters chosen for items and item values are probably quite out of date now, but easy to change for anyone wanting to copy the script. 
+
+## Known issues: Tamriel Trade Centre (the website that hosts the market details) uses reCAPTCHA, and will block web requests from any source that fails to fulfill a couple of them for a period of time. Captcha avoidance is of utmost importance if you wish to use this script yourself, so any way of enhancing those capabilities will result in better results. It is also recommended to run the script over a VPN, as it can be annoying to have your IP become temporarily blocked from accessing TTC manually.
